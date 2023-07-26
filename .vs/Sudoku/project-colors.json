@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cfbb5d3-a31c-4612-9a35-b557c14285d2": {
+      "ProjectGuid": "2cfbb5d3-a31c-4612-9a35-b557c14285d2",
+      "DisplayName": "Sudoku",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
