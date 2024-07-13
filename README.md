@@ -12,9 +12,9 @@ Các Tính Năng Chính:
 - Kết quả: Hiển thị kết quả, độ khó và thời gian hoàn thành trò chơi.
 
 Thuật Toán Backtracking:
-1.Thuật toán Backtracking là một phương pháp giải quyết vấn đề bằng cách thử các lựa chọn và quay lại nếu gặp phải ngõ cụt. Trong game Sudoku, thuật toán này sẽ:
-2.Tìm ô trống: Tìm ô trống đầu tiên trong bảng Sudoku.
-3.Thử các con số: Thử các con số từ 1 đến 9 vào ô trống.
-4.Kiểm tra hợp lệ: Kiểm tra xem số đã điền có hợp lệ không (không trùng lặp trong hàng, cột và vùng 3x3).
-5.Tiếp tục: Nếu số hợp lệ, tiếp tục với ô trống tiếp theo; nếu không, thử số khác.
-6.Quay lui: Nếu không có số nào hợp lệ, quay lại ô trước đó và thử số khác.
+1. Thuật toán Backtracking là một phương pháp giải quyết vấn đề bằng cách thử các lựa chọn và quay lại nếu gặp phải ngõ cụt. Trong game Sudoku, thuật toán này sẽ:
+2. Tìm ô trống: Tìm ô trống đầu tiên trong bảng Sudoku.
+3. Thử các con số: Thử các con số từ 1 đến 9 vào ô trống.
+4. Kiểm tra hợp lệ: Kiểm tra xem số đã điền có hợp lệ không (không trùng lặp trong hàng, cột và vùng 3x3).
+5. Tiếp tục: Nếu số hợp lệ, tiếp tục với ô trống tiếp theo; nếu không, thử số khác.
+6. Quay lui: Nếu không có số nào hợp lệ, quay lại ô trước đó và thử số khác.
