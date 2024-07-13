@@ -9,7 +9,7 @@ Các Tính Năng Chính:
 - Giải quyết Sudoku: Sử dụng thuật toán Backtracking để giải quyết các bảng Sudoku đã cho.
 - Giao diện người dùng: Giao diện người dùng thân thiện, cho phép người chơi nhập và xóa các con số.
 - Kiểm tra lỗi: Kiểm tra và thông báo lỗi khi người chơi nhập số không hợp lệ.
-- Kết quả: hiển thị kết quả, độ khó và thời gian hoàn thành trò chơi.
+- Kết quả: Hiển thị kết quả, độ khó và thời gian hoàn thành trò chơi.
 
 Thuật Toán Backtracking:
 1.Thuật toán Backtracking là một phương pháp giải quyết vấn đề bằng cách thử các lựa chọn và quay lại nếu gặp phải ngõ cụt. Trong game Sudoku, thuật toán này sẽ:
